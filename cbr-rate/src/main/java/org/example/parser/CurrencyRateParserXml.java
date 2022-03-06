@@ -1,7 +1,7 @@
-package example.parser;
+package org.example.parser;
 
 import lombok.extern.slf4j.Slf4j;
-import example.model.CurrencyRate;
+import org.example.model.CurrencyRate;
 import org.springframework.stereotype.Service;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

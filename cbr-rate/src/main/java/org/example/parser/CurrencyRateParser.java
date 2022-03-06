@@ -1,6 +1,6 @@
-package example.parser;
+package org.example.parser;
 
-import example.model.CurrencyRate;
+import org.example.model.CurrencyRate;
 
 import java.util.List;
 
